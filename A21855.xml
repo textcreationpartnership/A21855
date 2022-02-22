@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against certaine seditious and schismatical bookes and libels, &amp;c.</title>
+            <title>Proclamations. 1589-02-13</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21855</idno>
+            <idno type="STC">STC 8182</idno>
+            <idno type="STC">ESTC S115407</idno>
+            <idno type="EEBO-CITATION">99850626</idno>
+            <idno type="PROQUEST">99850626</idno>
+            <idno type="VID">15840</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15840)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against certaine seditious and schismatical bookes and libels, &amp;c.</title>
+                  <title>Proclamations. 1589-02-13</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1588 [i.e. 1589]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The year in the imprint is according to Lady Day dating.</note>
+                  <note>Mainly directed against the Marprelate tracts--STC.</note>
+                  <note>The imprint is in 2 settings: 1) with full stop after date; 2) without full stop after date.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marprelate controversy --  Early works to 1800.</term>
+               <term>Prohibited books --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15840:1"/>
+            <!-- PDF PAGE 1 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation againſt certaine ſeditious and Schiſmatical Bookes and Libels, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie, conſidering howe within theſe few yeeres paſt, and now of late, certaine ſeditious, &amp; euill diſpoſed perſons towards her Maie<g ref="char:EOLhyphen"/>ſtie and the Gouernment eſtabliſhed for cauſes Eccleſiaſticall within her Maie<g ref="char:EOLhyphen"/>ſties Dominions, haue deuiſed, written, printed, or cauſed to be ſeditiouſly and ſecretly publiſhed and diſperſed, ſundry ſchiſmatical and ſeditious bookes, diffama<g ref="char:EOLhyphen"/>torie Libels, and other fantaſticall writings amongſt her Maieſties Subiectes, containing in them doctrine very erronious, and other matters notoriouſly vn<g ref="char:EOLhyphen"/>true, and ſlaunderous to the State, and againſt the godly reformation of Religion and Gouernement Eccleſiaſticall eſtabliſhed by Lawe, and ſo quietly of long <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>t continued, and alſo againſt the perſons of the Biſhoppes, and others placed in authoritie Eccleſiaſticall <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder her Highneſſe by her authoritie, in rayling ſorte, and beyond the boundes of all good humanitie: All which Bookes, Libels, and writings tend by their ſcope, to perſwade and bring in a monſtrous and apparaunt <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ngerous Innouation within her dominions and Countries, of all manner Eccleſiaſticall Gouernement nowe in vſe, and to the abridging, or rather to the ouerthrowe of her Highneſſe lawfull Prerogatiue, allowed by Gods lawe, and eſtabliſhed by the Lawes of the Realme, and conſequently to reuerſe, diſſolue, and ſet at Li<g ref="char:EOLhyphen"/>bertie the preſent Gouernment of the Church, and to make a daungerous change of the forme of doctrine, and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of Diuine ſeruice of God, and the miniſtration of the Sacraments nowe alſo in vſe, with a raſhe and ma<g ref="char:EOLhyphen"/>licious purpoſe alſo to diſſolue the Eſtate of the Prelacie, beeing one of the three auncient eſtates of this Realme vnder her Highneſſe, whereof her Maieſtie mindeth to haue ſuch a reuerend regard, as to their places in the Church and Common wealth appertaineth. All which ſaide lewde and ſeditious practiſes doe directly <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd to the manifeſt wilfull breach of a great number of good Lawes and Statutes of this Realme, inconueni<g ref="char:EOLhyphen"/>ences nothing regarded by ſuch Innouations.</p>
+            <p>In conſideration whereof, her Highneſſe graciouſly minding to prouide ſome good and ſpeedy remedie to with<g ref="char:EOLhyphen"/>ſtand ſuch notable daungerous and vngodly attempts, and for that purpoſe to haue ſuch enormious malefactors diſcouered and condignely puniſhed, doeth ſignifie this her Highneſſe miſliking and indignation of ſuch daunge<g ref="char:EOLhyphen"/>rous and wicked enterpriſes, and for that purpoſe doth hereby will, &amp; alſo ſtraightly charge and commaund, that all perſons whatſoeuer, within any her Maieſties Realmes and Dominions, who haue, or hereafter ſhall haue any of the ſaide ſeditious Bookes, Pamphlets, Libels, or Writings, or any of like nature already publiſhed, or hereafter to be publiſhed, in his or their cuſtodie, containing ſuch matters as aboue are mentioned, againſt the preſent Order and Gouernment of the Church of England, or the lawfull Miniſters thereof, or againſt the rites and ceremonies vſed in the Church, and allowed by the Lawes of the Realme: That they, and euery of them doe preſently after, with conuenient ſpeede bring in, and deliuer vp the ſame vnto the Ordinarie of the Dioceſſe, or of the place where they inhabite, to the intent they may be vtterly defaced by the ſaid Ordinarie, or otherwiſe vſed by them. And that from hencefoorth no perſon or perſons whatſoever, be ſo hardie, as to write, contriue, print, or cauſe to be publiſhed or diſtributed, or to keepe any of the ſame, or any other Bookes, Libels, or Writings of like nature and qualitie, contrary to the true meaning and intent of this her Maieſties Proclamation. And likewiſe, that no man hereafter, giue any inſtruction, direction, fauour, or aſſiſtance, to the contriuing, writing, printing, publiſhing, or diſperſing of the ſame, or ſuch like Bookes, Libelles, or Writings whatſoeuer, as they tender her Maieſties good fauour, will auoyde her high diſpleaſure, and as they will anſwere for the contrary at their vt<g ref="char:EOLhyphen"/>termoſt perils: and vpon ſuch further paines and penalties, as by the Lawe any way may be inflicted vpon the offendors, in any of theſe behalfes, as perſons mainteining ſuch ſeditious actions, which her Maieſtie mindeth to haue ſeuerally executed. And if any perſon haue had knowledge of the Authours, Writers, Printers, or diſ<g ref="char:EOLhyphen"/>perſers thereof, that ſhall within one moneth after the publication hereof, diſcouer the ſame to the Ordinarie of the place where he had ſuch knowledge, or to any of her Maieſties priuie Counſell: the ſame perſon ſhall not for his former concealement be hereafter moleſted or troubled.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Pallace of Weſtminſter, <date>the xiii. of Februarie, 1588. In the xxxi. yeere of her Highneſſe reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher <hi>Barker, Printer the Queenes moſt excellent Maieſtie.</hi> 1588.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
